@@ -1,0 +1,23 @@
+body{
+    color: black;
+    line-height: 15px;
+    background-color: rgb(245, 245, 218);
+}
+p{line-height: 16px;}
+
+ol{list-style-type: disc;
+line-height: 16px;}
+
+figure{float:left ;
+padding: 15px;
+border: 2px solid #ddd;
+margin: 0 30px 25px 0;}
+figcaption{font-size: 14px;
+font-weight: bold;
+}
+
+.name{
+    font-weight: 700 ;}
+.description{font-size: 15px;
+    font-style: italic ;}
+
